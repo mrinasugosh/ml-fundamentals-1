@@ -1,0 +1,16 @@
+{
+  "name": "ml-fundamentals-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Mrinalini Sugosh",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "dependencies": {
+    "mathjs": "^3.16.4"
+  }
+}
