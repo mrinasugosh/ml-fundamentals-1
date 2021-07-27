@@ -105,7 +105,7 @@ console.log('Transpose Matrix:');
 console.log(matV_T.valueOf());
 console.log('\n');
 
-// Inverse Matrix
+/* Inverse Matrix */
 
 matA = math.matrix([[0, 1], [2, 3]]);
 
